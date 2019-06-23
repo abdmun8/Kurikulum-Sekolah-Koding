@@ -6,11 +6,11 @@
 ### Belajar ReactJS untuk Pemula
 
 ❱ Dasar
-`Apa itu, kenapa dan cara install reactjs`
-`apa itu jsx`
-`component dan props di react`
-`state di react`
-`handle event react js`
+- Apa itu, kenapa dan cara install reactjs
+- apa itu jsx
+- component dan props di react
+- state di react
+- handle event react js
 
 ❱ Latihan
 membuat todolist reactjs
